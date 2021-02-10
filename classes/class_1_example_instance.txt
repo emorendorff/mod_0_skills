@@ -1,7 +1,14 @@
 Student1
 
+Attributes
 firstName = "Em"
 lastName = "Orendorff"
 isPresent = true
 courseTaken = ["AP History", "French", "Chemistry"]
 gradeLevel = 11
+
+Methods
+passGradeLevel: gradeLevel = 12 (updates gradeLevel to 12)
+addClass: courseTaken = ["AP History", "French", "Chemistry", "Biology"]
+dropClass: courseTaken = ["AP History", "French"]
+callOutSick: isPresent = false

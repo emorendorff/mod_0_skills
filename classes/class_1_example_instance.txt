@@ -1,0 +1,7 @@
+Student1
+
+firstName = "Em"
+lastName = "Orendorff"
+isPresent = true
+courseTaken = ["AP History", "French", "Chemistry"]
+gradeLevel = 11

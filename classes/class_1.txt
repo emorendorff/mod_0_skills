@@ -11,4 +11,4 @@ Methods
 passGradeLevel (moves gradeLevel attribute up one integer)
 addClass (adds to courseTaken attribute)
 dropClass (removes from courseTaken attribute)
-callOut (updates isPresent attribute)
+callOutSick (updates isPresent attribute)

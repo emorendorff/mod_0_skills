@@ -1,0 +1,14 @@
+class Student
+
+Attributes
+firstName (string)
+lastName (string)
+isPresent (boolean)
+courseTaken (array)
+gradeLevel (integer)
+
+Methods
+checkAttendance (updates isPresent attribute)
+passGradeLevel (moves gradeLevel attribute up one integer)
+addClass (adds to courseTaken attribute)
+dropClass (removes from courseTaken attribute)

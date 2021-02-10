@@ -1,0 +1,9 @@
+var famousPerson = "Brad Pitt";
+var isActive = true;
+famousPerson = "Adam Levine";
+var num3 = 3;
+var num9 = 9;
+var sum = num9 + num3;
+var animals = ['lion', 'tiger', 'bear'];
+animals.splice (2, 1, 'bear');
+var answer = famousPerson.length;

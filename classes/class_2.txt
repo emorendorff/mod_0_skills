@@ -1,0 +1,14 @@
+class Teacher
+
+Attributes
+name (string)
+isTenured (boolean)
+yearsEmployeed (integer)
+classesTaught (array)
+totalStudents (integer)
+
+Methods
+addTenure (changes isTenure attribute to true)
+addClass (adds to classesTaught attribute)
+removeStudent (removes one totalStudents attribute)
+addYear (adds one year to yearsEmployeed attribute)

@@ -1,0 +1,14 @@
+Object Teacher Two
+
+Attributes
+name = 'James Dean'
+isTenured = false
+yearsEmployeed = 2
+classesTaught = ["AP US History", "European History"]
+totalStudents = 33
+
+Methods
+addTenure: isTenured = true
+addClass: classesTaught = ["AP US History", "European History", "French"]
+removeStudent: totalStudents = 32
+addYear: yearsEmployeed = 3
